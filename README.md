@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**Kiyotaka-Ayan/Kiyotaka-Ayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div><h1 align=center>🎉std::cout << "Welcome to my home!!!" << std::endl;🎉</h1></div>
+<div align=center>
+  <img src="https://img.shields.io/badge/IDE-VScode-blue?style=plastic" />
+  <img src="https://img.shields.io/badge/OS-Linux-green?style=plastic&logo=linux" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=plastic&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/C-red?style=plastic&logo=c&logoColor=blue" />
+</div>
+</br>
+<div>
+  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1y0t4k4&layout=compact&theme=tokyonight" />
+  <img align=left src="https://github-readme-stats.vercel.app/api?username=K1y0t4k4&show_icons=true&theme=radical" />
+</div>
+</br>
